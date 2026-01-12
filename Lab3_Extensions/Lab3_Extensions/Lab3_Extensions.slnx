@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StringExtensionsDemo/StringExtensionsDemo.csproj" />
+  <Project Path="StringExtensionsLib/StringExtensionsLib.csproj" />
+</Solution>
